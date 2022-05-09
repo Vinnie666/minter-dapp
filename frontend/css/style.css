@@ -395,6 +395,7 @@ section {
   display: none;
 }
 
+/* slider width */
 .splide.splide--loop.splide--ttb.splide--draggable.is-active.is-initialized {
-  max-width: 20vw !important;
+  max-width: 25vw !important;
 }
