@@ -394,3 +394,7 @@ section {
 .hidden {
   display: none;
 }
+
+.splide.splide--loop.splide--ttb.splide--draggable.is-active.is-initialized {
+  max-width: 17vw !important;
+}
