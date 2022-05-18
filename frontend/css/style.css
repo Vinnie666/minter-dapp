@@ -47,12 +47,15 @@ body {
 header {
   background-color: var(--bg-color);
   box-shadow: var(--header-shadow);
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  width: 100%;
 }
 
 .menu {
@@ -411,4 +414,66 @@ h1#mainHeading {
   margin-bottom: 0px !important;
   padding-top: 0px !important;
   padding-bottom: 5px !important;
+}
+
+/* ABOUT PAGE */
+
+.about-container {
+  width: 100%;
+  margin-top: 2.5%;
+  display: flex;
+  align-items: center;
+}
+
+.about-container img {
+  width: 50%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+h1.about-h1,
+p.about-p {
+  width: 95%;
+  text-align: center;
+}
+
+/* COLLECTIONS PAGE */
+
+h1.collections-h1 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 1%;
+}
+
+ul.collection1 {
+  list-style-type: none;
+}
+
+li.collection1 img {
+  width: 17.6%;
+  margin-left: 1%;
+  margin-right: 1%;
+  float: left;
+}
+
+/* ROADMAP PAGE */
+
+.roadmap-container {
+  width: 100%;
+  margin-top: 2.5%;
+  display: flex;
+  align-items: center;
+}
+
+.roadmap-container img {
+  width: 50%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+h1.roadmap-h1,
+p.roadmap-p {
+  width: 100%;
+  margin-left: 2.5%;
+  text-align: center;
 }
