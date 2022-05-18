@@ -2,8 +2,8 @@ const contractAddress = "0x4c5A68C849BE870F34E3adCf256c3D3B9756e420"; //Replace 
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Viking NFTs";
-const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Viking NFTs is a decentralized project for testing purposes only';
+const welcome_h2 = "Connect to MetaMask now and get a Viking!";
+const welcome_p = 'Limited Edition Viking NFTs ... don´t miss out';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!";
 const h1_presale_mint = "Pre-Sale Minting Now Open";
 const h1_public_mint = "Public Minting Open!";
