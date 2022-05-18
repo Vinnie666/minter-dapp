@@ -56,6 +56,8 @@ header .container {
   justify-content: space-between;
   align-items: center;
   width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .menu {
