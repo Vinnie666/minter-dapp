@@ -455,6 +455,10 @@ li.collection1 img {
   float: left;
 }
 
+.above-footer {
+  padding-top: 50px;
+}
+
 /* ROADMAP PAGE */
 
 .roadmap-container {
