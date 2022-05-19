@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Viking NFTs";
 const welcome_h2 = "Connect to MetaMask now and grab yourself a Viking";
-const welcome_p = 'Limited Edition Viking NFT Collection ... act now, don´t miss out!';
+const welcome_p = 'Limited Edition Viking NFT Collection ... get yours now, don´t miss out!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!";
 const h1_presale_mint = "Pre-Sale Minting Now Open";
 const h1_public_mint = "Public Minting Open!";
